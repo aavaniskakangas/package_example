@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: dev_aberto_Aava_Niskakangas
-Version: 0.1
+Version: 0.2
 License-File: LICENSE
 Requires-Dist: requests>=2.0.0
 Dynamic: license-file
